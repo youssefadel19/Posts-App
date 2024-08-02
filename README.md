@@ -7,11 +7,11 @@
 A postsFeed Application in French to add, remove and update posts and can scroll over other users posts.
 
 #Features
- State management using cubit
- Simple responsive UI
- Dealing with API using HTTP
- Error Handling
- dependency injection using get_it
+ -State management using cubit
+ -Simple responsive UI
+ -Dealing with API using HTTP
+ -Error Handling
+ -dependency injection using get_it
 
 ## Getting Started
 A few resources to get you started if this is your first Flutter project:
