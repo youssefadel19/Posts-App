@@ -1,6 +1,6 @@
 # posts_app
 
-![]((https://drive.google.com/file/d/1HcQfQvQtXjELBVH94E8WEiTM5k_ciIVj/view?usp=sharing))
+![](https://drive.google.com/file/d/1HcQfQvQtXjELBVH94E8WEiTM5k_ciIVj/view?usp=sharing)
 
 ## Getting Started
 
