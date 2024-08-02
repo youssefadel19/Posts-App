@@ -1,11 +1,19 @@
 # posts_app
 
-![](https://github.com/youssefadel19/Posts-App/blob/master/Untitled%20design%20(1).png)
+![Screenshots](https://github.com/youssefadel19/Posts-App/blob/master/Untitled%20design%20(1).png)
+
+#Overview
+
+A postsFeed Application in French to add, remove and update posts and can scroll over other users posts.
+
+#Features
+ -State management using cubit
+ -Simple responsive UI
+ -Dealing with API using HTTP
+ -Error Handling
+ -dependency injection using get_it
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
