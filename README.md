@@ -1,6 +1,6 @@
-# Posts_app
+# 📰 Posts_app
 
-![Screenshots](https://github.com/youssefadel19/Posts-App/blob/master/Untitled%20design%20(1).png)
+![Screenshots](https://github.com/youssefadel19/Posts-App/blob/master/PostsApp.png)
 
 # Overview
 
