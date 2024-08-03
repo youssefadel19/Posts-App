@@ -4,7 +4,7 @@
 
 # Overview
 
-A PostsFeed Application in French to add, remove and update posts and can scroll over other users posts.
+A PostsFeed Application in French to add, remove and update posts and can scroll over other posts.
 
 # Features
  * State management using cubit
